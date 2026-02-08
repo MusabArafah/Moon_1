@@ -44,3 +44,7 @@ img {
 h2 {
     margin-top: 23px;
 }
+
+a {
+    text-decoration: none;
+}
